@@ -1,0 +1,38 @@
+[
+{
+  "question": "How Many Letters Of The Alphabet Are There",
+  "answers": ["26"]
+},
+{
+  "question": "How many soccer players should each team have on the field at the start of each match?",
+  "answers": ["11"]
+},
+{
+  "question": "What year was the very first model of the iPhone released?",
+  "answers": ["2007"]
+},
+{
+  "question": "Is Java a type of OS?",
+  "answers": ["no"]
+},
+{
+  "question": "What was Twitter’s original name?",
+  "answers": ["twttr"]
+},
+{
+  "question": "What is the symbol for potassium?",
+  "answers": ["k"]
+},
+{
+  "question": "How many molecules of oxygen does ozone have?",
+  "answers": ["3"]
+},
+{
+  "question": " Which animal can be seen on the Porsche logo?",
+  "answers": ["Horse"]
+},
+{
+  "question": "In what year was the Corvette introduced?",
+  "answers": ["1953"]
+}
+]

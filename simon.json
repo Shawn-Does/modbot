@@ -1,0 +1,50 @@
+[
+	{
+		"question": "Simon Say's, Say 456",
+		"answers": ["456"]
+	},
+	{
+		"question": "Simon Says, Whats 10+6+7+3",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+	},
+  {
+    "question": "Don't Respond",
+    "answers": ["no"]
+  },
+  {
+		"question": "Simon Says, Say f",
+		"answers": ["f"]
+	},
+  {
+		"question": "Whats 4 x 2",
+		"answers": ["no"]
+	},
+  {
+		"question": "Simon Says, Tell My How Many Letter's Of The Alphabet There Are",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+	},
+  {
+		"question": "Say yes",
+		"answers": ["no"]
+	},
+  {
+		"question": "Simon Is Asking, Whats 1+6",
+		"answers": ["7", "seven"]
+	},
+	{
+		"question": "Look At A Meme",
+		"answers": ["no"]
+	},
+	{
+		"question": "Simon Say's Look At A Loop",
+		"answers": ["..loop"]
+	},
+	{
+		"question": "Simon Say's, say qwert",
+		"answers": ["qwert"]
+	},
+	{
+		"question": "STOP",
+		"answers": ["no"]
+	}
+]
